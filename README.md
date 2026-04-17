@@ -51,13 +51,13 @@ I build things that [what your work does / who it helps].
 <div align="center">
 
 <!-- Overall stats card -->
-![Stats](https://github-readme-stats.vercel.app/api?username=[yourusername]&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=wongvincegabriel-cmyk&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 <!-- Most-used languages card — shows your actual repo language breakdown -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[yourusername]&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wongvincegabriel-cmyk&layout=compact&hide_border=true&theme=default)
 
 <!-- Contribution streak — shows your daily commit streak -->
-![Streak](https://streak-stats.demolab.com?user=[yourusername]&theme=default&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=wongvincegabriel-cmyk&theme=default&hide_border=true)
 
 </div>
 
@@ -93,7 +93,7 @@ I build things that [what your work does / who it helps].
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[yourprofile])
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[yourusername])
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wongvincegabriel-cmyk)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your@email.com])
 
 </div>
