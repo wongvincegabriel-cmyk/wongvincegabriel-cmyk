@@ -19,12 +19,10 @@
 ## About
 
 Computer Science student at **Angeles University Foundation**, Years: 2024-2027.
-Focused on [your specialization, e.g. full-stack development / machine learning].
-I build things that [what your work does / who it helps].
+Focused on back-end development and machine-learning.
 
-- 📍 Based in [City, Country]
+- 📍 Based in Angeles City, Pampanga
 - 🏫 Expected graduation: 2027
-- 💬 Ask me about: [topic], [topic], [topic]
 
 ---
 
@@ -43,9 +41,7 @@ I build things that [what your work does / who it helps].
 
 ---
 
-<!-- GITHUB STATS
-     These cards auto-generate from your real GitHub data.
-     Replace [yourusername] in every URL below.            -->
+
 ## GitHub stats
 
 <div align="center">
@@ -61,14 +57,10 @@ I build things that [what your work does / who it helps].
 
 </div>
 
-<!-- NOTE: Stats cards require public repos to display data.
-     If they appear blank, it's because your repos are private. -->
 
 ---
 
-<!-- PROJECTS TABLE
-     List your best work. The more detail the better.
-     Link the project name to the repo URL.               -->
+
 ## Projects
 
 | Name | Description | Stack | Status |
@@ -78,13 +70,13 @@ I build things that [what your work does / who it helps].
 
 ---
 
-<!-- ACHIEVEMENTS — Optional. List only real accomplishments. -->
-## Highlights
 
+## Highlights
+<!-- 
 - 🏆 [Hackathon or award name] — [brief result, e.g. 1st place, Regional]
 - 📜 [Certification name] — [Issuing organization]
 - 🌐 Contributed to [open source project] — [what you did]
-
+ -->
 <!-- Remove this whole section if you don't have items to fill in yet. -->
 
 ---
