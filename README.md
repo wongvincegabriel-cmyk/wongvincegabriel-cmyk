@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=[CS+Student];[Web+Developer];[Always+Learning])](https://git.io/typing-svg)
 
 <!-- Profile view counter — replace [yourusername] with your GitHub username -->
-![Profile Views](https://komarev.com/ghpvc/?username=[yourusername]&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=wongvincegabriel-cmyk&color=blue&style=flat)
 
 </div>
 
